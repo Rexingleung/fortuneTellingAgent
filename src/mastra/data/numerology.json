@@ -1,0 +1,326 @@
+{
+  "basicNumbers": {
+    "1": {
+      "keywords": ["Leadership", "Independence", "Innovation", "Individuality", "Originality"],
+      "positiveTraits": ["Ambitious", "Self-reliant", "Creative", "Strong-willed", "Pioneering"],
+      "negativeTraits": ["Domineering", "Selfish", "Stubborn", "Impatient", "Aggressive"],
+      "lifePathMeaning": "A path of leadership, independence, and self-discovery. Those with Life Path 1 are natural pioneers and trailblazers, meant to develop their individual strengths and forge their own path.",
+      "destinyMeaning": "A destiny of innovation and achievement through individual effort. People with Destiny Number 1 are likely to make their mark through original ideas and independent action.",
+      "letterCorrespondence": ["A", "J", "S"],
+      "planet": "Sun",
+      "element": "Fire"
+    },
+    "2": {
+      "keywords": ["Cooperation", "Diplomacy", "Partnership", "Sensitivity", "Balance"],
+      "positiveTraits": ["Diplomatic", "Supportive", "Cooperative", "Adaptable", "Intuitive"],
+      "negativeTraits": ["Oversensitive", "Indecisive", "Fearful", "Dependent", "Passive"],
+      "lifePathMeaning": "A path of cooperation, mediation, and emotional intelligence. Those with Life Path 2 are natural peacemakers and partners, meant to create harmony and understanding between people.",
+      "destinyMeaning": "A destiny of creating balance and facilitating relationships. People with Destiny Number 2 are likely to find fulfillment through partnerships and bringing people together.",
+      "letterCorrespondence": ["B", "K", "T"],
+      "planet": "Moon",
+      "element": "Water"
+    },
+    "3": {
+      "keywords": ["Creativity", "Expression", "Joy", "Communication", "Sociability"],
+      "positiveTraits": ["Creative", "Expressive", "Optimistic", "Inspirational", "Communicative"],
+      "negativeTraits": ["Scattered", "Superficial", "Extravagant", "Critical", "Moody"],
+      "lifePathMeaning": "A path of creative expression and communication. Those with Life Path 3 are natural artists and communicators, meant to inspire others through their creative gifts.",
+      "destinyMeaning": "A destiny of bringing joy and inspiration through creative expression. People with Destiny Number 3 are likely to make their mark through artistic or communication-related endeavors.",
+      "letterCorrespondence": ["C", "L", "U"],
+      "planet": "Jupiter",
+      "element": "Fire"
+    },
+    "4": {
+      "keywords": ["Stability", "Practicality", "Organization", "Determination", "Reliability"],
+      "positiveTraits": ["Practical", "Organized", "Hard-working", "Reliable", "Detail-oriented"],
+      "negativeTraits": ["Rigid", "Stubborn", "Narrow-minded", "Workaholic", "Unimaginative"],
+      "lifePathMeaning": "A path of building stable foundations and creating order. Those with Life Path 4 are natural builders and organizers, meant to establish reliable structures and systems.",
+      "destinyMeaning": "A destiny of achieving through disciplined effort and practical wisdom. People with Destiny Number 4 are likely to create lasting achievements through methodical work.",
+      "letterCorrespondence": ["D", "M", "V"],
+      "planet": "Uranus",
+      "element": "Earth"
+    },
+    "5": {
+      "keywords": ["Freedom", "Change", "Adventure", "Versatility", "Curiosity"],
+      "positiveTraits": ["Adaptable", "Versatile", "Adventurous", "Progressive", "Resourceful"],
+      "negativeTraits": ["Restless", "Inconsistent", "Impatient", "Overindulgent", "Noncommittal"],
+      "lifePathMeaning": "A path of freedom, change, and versatile experience. Those with Life Path 5 are natural adventurers and agents of change, meant to embrace variety and promote progress.",
+      "destinyMeaning": "A destiny of bringing positive change and versatile solutions. People with Destiny Number 5 are likely to make their mark through adaptability and embracing new experiences.",
+      "letterCorrespondence": ["E", "N", "W"],
+      "planet": "Mercury",
+      "element": "Air"
+    },
+    "6": {
+      "keywords": ["Responsibility", "Nurturing", "Harmony", "Service", "Balance"],
+      "positiveTraits": ["Responsible", "Nurturing", "Compassionate", "Harmonious", "Supportive"],
+      "negativeTraits": ["Sacrificing", "Interfering", "Worrying", "Perfectionist", "Controlling"],
+      "lifePathMeaning": "A path of responsibility, service, and nurturing others. Those with Life Path 6 are natural caretakers and harmonizers, meant to create beauty and balance in their environments.",
+      "destinyMeaning": "A destiny of creating harmony and serving others. People with Destiny Number 6 are likely to find fulfillment through family, community service, and beautifying their surroundings.",
+      "letterCorrespondence": ["F", "O", "X"],
+      "planet": "Venus",
+      "element": "Earth"
+    },
+    "7": {
+      "keywords": ["Analysis", "Introspection", "Wisdom", "Spirituality", "Perfection"],
+      "positiveTraits": ["Analytical", "Thoughtful", "Spiritual", "Wise", "Introspective"],
+      "negativeTraits": ["Detached", "Secretive", "Critical", "Aloof", "Skeptical"],
+      "lifePathMeaning": "A path of analysis, spiritual wisdom, and inner seeking. Those with Life Path 7 are natural philosophers and researchers, meant to discover deeper truths and wisdom.",
+      "destinyMeaning": "A destiny of uncovering knowledge and spiritual insights. People with Destiny Number 7 are likely to make their mark through intellectual or spiritual contributions.",
+      "letterCorrespondence": ["G", "P", "Y"],
+      "planet": "Neptune",
+      "element": "Water"
+    },
+    "8": {
+      "keywords": ["Achievement", "Authority", "Power", "Material success", "Organization"],
+      "positiveTraits": ["Ambitious", "Practical", "Organized", "Strong", "Authoritative"],
+      "negativeTraits": ["Workaholic", "Materialistic", "Domineering", "Impatient", "Unforgiving"],
+      "lifePathMeaning": "A path of material mastery, achievement, and executive ability. Those with Life Path 8 are natural managers and executives, meant to achieve success in the material world.",
+      "destinyMeaning": "A destiny of achieving authority and material success. People with Destiny Number 8 are likely to make their mark through business, finance, or positions of leadership.",
+      "letterCorrespondence": ["H", "Q", "Z"],
+      "planet": "Saturn",
+      "element": "Earth"
+    },
+    "9": {
+      "keywords": ["Compassion", "Completion", "Humanitarianism", "Universal love", "Artistic"],
+      "positiveTraits": ["Compassionate", "Creative", "Humanitarian", "Generous", "Romantic"],
+      "negativeTraits": ["Scattered", "Unrealistic", "Resentful", "Aloof", "Moody"],
+      "lifePathMeaning": "A path of compassion, completion, and humanitarian service. Those with Life Path 9 are natural humanitarians and artists, meant to serve the greater good and complete important cycles.",
+      "destinyMeaning": "A destiny of serving humanity and providing artistic or humanitarian contributions. People with Destiny Number 9 are likely to make their mark through selfless service or artistic expressions that touch many hearts.",
+      "letterCorrespondence": ["I", "R"],
+      "planet": "Mars",
+      "element": "Fire"
+    }
+  },
+  "masterNumbers": {
+    "11": {
+      "keywords": ["Intuition", "Spiritual insight", "Illumination", "Inspiration", "Idealism"],
+      "positiveTraits": ["Intuitive", "Inspirational", "Idealistic", "Visionary", "Charismatic"],
+      "negativeTraits": ["Nervous", "Impractical", "Extreme", "Fanatical", "Stressed"],
+      "lifePathMeaning": "A path of spiritual insight and inspired leadership. Those with Life Path 11 are natural visionaries and inspirers, meant to elevate consciousness and provide spiritual guidance.",
+      "destinyMeaning": "A destiny of inspiring others through spiritual insight and visionary ideas. People with Destiny Number 11 are likely to make their mark through spiritual teaching, healing, or inspired creative works.",
+      "reducesTo": "2"
+    },
+    "22": {
+      "keywords": ["Master builder", "Practical idealism", "Large-scale manifestation", "Vision", "Achievement"],
+      "positiveTraits": ["Practical", "Visionary", "Organized", "Ambitious", "Capable"],
+      "negativeTraits": ["Overwhelmed", "Materialistic", "Dictatorial", "Stressed", "Frustrated"],
+      "lifePathMeaning": "A path of practical vision and large-scale manifestation. Those with Life Path 22 are natural master builders, meant to create structures and systems that benefit many people.",
+      "destinyMeaning": "A destiny of creating significant practical achievements that serve humanity. People with Destiny Number 22 are likely to make their mark through building organizations, systems, or physical structures that have far-reaching effects.",
+      "reducesTo": "4"
+    },
+    "33": {
+      "keywords": ["Master teacher", "Compassion", "Nurturing", "Self-sacrifice", "Healing"],
+      "positiveTraits": ["Compassionate", "Nurturing", "Wise", "Expressive", "Healing"],
+      "negativeTraits": ["Self-sacrificing", "Codependent", "Overburdened", "Scattered", "Manipulative"],
+      "lifePathMeaning": "A path of compassionate teaching and nurturing service. Those with Life Path 33 are natural healers and teachers, meant to uplift humanity through compassionate care and wisdom.",
+      "destinyMeaning": "A destiny of healing and teaching others from a place of unconditional love. People with Destiny Number 33 are likely to make their mark through healing arts, teaching, or creating nurturing environments that allow others to flourish.",
+      "reducesTo": "6"
+    }
+  },
+  "calculationMethods": {
+    "lifePathNumber": {
+      "description": "Derived from your birth date, represents your life's purpose and the path you're meant to follow.",
+      "calculation": "Add all digits of birth date (MM/DD/YYYY) and reduce to a single digit or master number. Example: June 23, 1987 = 6 + 2 + 3 + 1 + 9 + 8 + 7 = 36 = 3 + 6 = 9"
+    },
+    "expressionNumber": {
+      "description": "Derived from all letters in your full birth name, represents your natural abilities and potentials.",
+      "calculation": "Convert each letter in full birth name to its numerical value (A=1, B=2, etc.), add them together, and reduce to a single digit or master number."
+    },
+    "soulUrgeNumber": {
+      "description": "Derived from the vowels in your full birth name, represents your inner desires and motivations.",
+      "calculation": "Convert each vowel (A, E, I, O, U, sometimes Y) in your full birth name to its numerical value, add them together, and reduce to a single digit or master number."
+    },
+    "personalityNumber": {
+      "description": "Derived from the consonants in your full birth name, represents how others perceive you.",
+      "calculation": "Convert each consonant in your full birth name to its numerical value, add them together, and reduce to a single digit or master number."
+    },
+    "birthDayNumber": {
+      "description": "Derived from the day of the month you were born, represents specific talents and abilities you possess.",
+      "calculation": "Take the day of the month you were born and reduce to a single digit if necessary. Example: Born on the 23rd = 2 + 3 = 5"
+    },
+    "attitudeNumber": {
+      "description": "Derived from the month and day of your birth, represents your general attitude toward life.",
+      "calculation": "Add the month and day of birth and reduce to a single digit. Example: June 23 = 6 + 2 + 3 = 11 = 1 + 1 = 2"
+    }
+  },
+  "personalYearCycles": {
+    "description": "Personal Year Cycles track your progress through 9-year cycles of development, with each year focusing on different themes.",
+    "calculation": "Add your month and day of birth to the current year, then reduce to a single digit. Example: For someone born on June 23 in the year 2025: 6 + 2 + 3 + 2 + 0 + 2 + 5 = 20 = 2 + 0 = 2 (Personal Year 2)",
+    "cycles": {
+      "1": {
+        "theme": "New beginnings, initiation, independence",
+        "focus": "Starting new projects, asserting independence, planting seeds for the future",
+        "challenges": "Resistance to change, fear of stepping out on your own"
+      },
+      "2": {
+        "theme": "Cooperation, patience, relationships",
+        "focus": "Building partnerships, developing patience, attention to detail",
+        "challenges": "Sensitivity to criticism, delays, need for balance"
+      },
+      "3": {
+        "theme": "Creativity, expression, joy",
+        "focus": "Creative projects, socializing, self-expression",
+        "challenges": "Scattered energy, superficiality, emotional fluctuations"
+      },
+      "4": {
+        "theme": "Building foundations, stability, work",
+        "focus": "Establishing order, hard work, building for the future",
+        "challenges": "Restrictions, heavy responsibilities, slow progress"
+      },
+      "5": {
+        "theme": "Change, freedom, adventure",
+        "focus": "Embracing change, travel, new experiences",
+        "challenges": "Restlessness, excess, instability"
+      },
+      "6": {
+        "theme": "Responsibility, family, service",
+        "focus": "Home and family matters, service to others, accepting responsibility",
+        "challenges": "Overcommitment, worry, domestic adjustments"
+      },
+      "7": {
+        "theme": "Analysis, introspection, spiritual growth",
+        "focus": "Inner development, study, reflection, spiritual connection",
+        "challenges": "Isolation, overthinking, trust issues"
+      },
+      "8": {
+        "theme": "Power, success, achievement",
+        "focus": "Career advancement, financial matters, personal power",
+        "challenges": "Material concerns, workaholic tendencies, power struggles"
+      },
+      "9": {
+        "theme": "Completion, letting go, humanitarianism",
+        "focus": "Endings, release, giving back to others, completion",
+        "challenges": "Emotional release, disappointment, universal compassion"
+      }
+    }
+  },
+  "nameAnalysis": {
+    "firstLetter": {
+      "A": "Independent, leadership qualities, pioneering",
+      "B": "Cooperative, sensitive, diplomatic",
+      "C": "Creative, expressive, sociable",
+      "D": "Practical, organized, hardworking",
+      "E": "Freedom-loving, versatile, curious",
+      "F": "Responsible, nurturing, service-oriented",
+      "G": "Analytical, introspective, philosophical",
+      "H": "Ambitious, business-minded, achievement-oriented",
+      "I": "Compassionate, humanitarian, creative",
+      "J": "Independent, original, goal-oriented",
+      "K": "Intuitive, sensitive, idealistic",
+      "L": "Creative, expressive, articulate",
+      "M": "Practical, detail-oriented, responsible",
+      "N": "Imaginative, inspirational, expressive",
+      "O": "Responsible, nurturing, community-minded",
+      "P": "Knowledgeable, inquiring, independent",
+      "Q": "Balancing spiritual and material, leadership",
+      "R": "Compassionate, intuitive, creative",
+      "S": "Ambitious, practical, reliable",
+      "T": "Sensitive, diplomatic, artistic",
+      "U": "Communicative, fortunate, optimistic",
+      "V": "Stable, reliable, service-oriented",
+      "W": "Free-thinking, adaptable, progressive",
+      "X": "Creative expression with responsibility",
+      "Y": "Freedom with spiritual insight",
+      "Z": "Intuitive intelligence with ambition"
+    },
+    "vowelCount": {
+      "description": "The number of vowels in your name can reveal aspects of your emotional nature.",
+      "interpretation": {
+        "few": "More reserved emotionally, practical approach to life",
+        "many": "Emotionally expressive, sensitive, intuitive"
+      }
+    },
+    "consonantCount": {
+      "description": "The number of consonants in your name can reveal aspects of your practical abilities.",
+      "interpretation": {
+        "few": "More idea-oriented than practical, conceptual thinker",
+        "many": "Practical, grounded, detail-oriented"
+      }
+    },
+    "nameLength": {
+      "description": "The total length of your name can reveal general life tendencies.",
+      "interpretation": {
+        "short": "Direct, efficient, gets to the point quickly",
+        "medium": "Balanced approach to life, adaptable",
+        "long": "Thorough, detail-oriented, complex personality"
+      }
+    }
+  },
+  "compatibility": {
+    "lifePathCompatibility": {
+      "1": {
+        "bestMatch": [3, 5, 7],
+        "challenging": [4, 8, 9],
+        "neutral": [1, 2, 6]
+      },
+      "2": {
+        "bestMatch": [4, 6, 8],
+        "challenging": [1, 5, 7],
+        "neutral": [2, 3, 9]
+      },
+      "3": {
+        "bestMatch": [1, 5, 6],
+        "challenging": [2, 4, 8],
+        "neutral": [3, 7, 9]
+      },
+      "4": {
+        "bestMatch": [2, 6, 8],
+        "challenging": [1, 3, 5],
+        "neutral": [4, 7, 9]
+      },
+      "5": {
+        "bestMatch": [1, 3, 7],
+        "challenging": [2, 4, 6],
+        "neutral": [5, 8, 9]
+      },
+      "6": {
+        "bestMatch": [2, 3, 9],
+        "challenging": [1, 5, 7],
+        "neutral": [4, 6, 8]
+      },
+      "7": {
+        "bestMatch": [1, 5, 9],
+        "challenging": [2, 4, 6],
+        "neutral": [3, 7, 8]
+      },
+      "8": {
+        "bestMatch": [2, 4, 6],
+        "challenging": [1, 3, 5],
+        "neutral": [7, 8, 9]
+      },
+      "9": {
+        "bestMatch": [3, 6, 9],
+        "challenging": [1, 4, 5],
+        "neutral": [2, 7, 8]
+      },
+      "11": {
+        "bestMatch": [2, 4, 6, 8, 11, 22],
+        "challenging": [1, 5, 7, 9],
+        "neutral": [3]
+      },
+      "22": {
+        "bestMatch": [2, 4, 6, 8, 11, 22],
+        "challenging": [1, 5, 7, 9],
+        "neutral": [3]
+      },
+      "33": {
+        "bestMatch": [3, 6, 9, 11, 22, 33],
+        "challenging": [1, 5, 7],
+        "neutral": [2, 4, 8]
+      }
+    },
+    "nameCompatibility": {
+      "description": "Name compatibility examines how the numerical vibrations of two people's names interact.",
+      "calculation": "Compare Expression, Soul Urge, and Personality Numbers between partners to assess different aspects of compatibility."
+    },
+    "karmic": {
+      "description": "Karmic relationships are indicated by specific number patterns that suggest past life connections.",
+      "indicators": [
+        "Life Path numbers that add up to 7 or 9",
+        "A difference of exactly 7 between Life Path numbers",
+        "Matching Soul Urge numbers",
+        "Expression numbers that are each other's mirror (e.g., 3 and 6, 4 and 8, 1 and 9)"
+      ]
+    }
+  }
+}
