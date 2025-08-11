@@ -1,0 +1,498 @@
+{
+  "baGua": {
+    "traditional": [
+      {
+        "name": "Qian (乾)",
+        "englishName": "Heaven",
+        "direction": "Northwest",
+        "element": "Metal",
+        "familyMember": "Father",
+        "trigram": "☰",
+        "qualities": ["Creative", "Strong", "Dynamic"],
+        "colors": ["White", "Gold", "Silver"],
+        "enhancements": ["Round metal objects", "Gold/silver items", "White or metallic colors"]
+      },
+      {
+        "name": "Kun (坤)",
+        "englishName": "Earth",
+        "direction": "Southwest",
+        "element": "Earth",
+        "familyMember": "Mother",
+        "trigram": "☷",
+        "qualities": ["Receptive", "Nurturing", "Supportive"],
+        "colors": ["Yellow", "Brown", "Ochre"],
+        "enhancements": ["Square or rectangular objects", "Ceramics", "Crystals", "Yellow and earth tones"]
+      },
+      {
+        "name": "Zhen (震)",
+        "englishName": "Thunder",
+        "direction": "East",
+        "element": "Wood",
+        "familyMember": "Eldest Son",
+        "trigram": "☳",
+        "qualities": ["Active", "Energetic", "Awakening"],
+        "colors": ["Green", "Blue-green"],
+        "enhancements": ["Plants", "Wooden items", "Vertical rectangular shapes", "Green colors"]
+      },
+      {
+        "name": "Gen (艮)",
+        "englishName": "Mountain",
+        "direction": "Northeast",
+        "element": "Earth",
+        "familyMember": "Youngest Son",
+        "trigram": "☶",
+        "qualities": ["Still", "Stable", "Meditative"],
+        "colors": ["Yellow", "Brown", "Blue-green"],
+        "enhancements": ["Stones", "Earth elements", "Heavy objects", "Square shapes"]
+      },
+      {
+        "name": "Kan (坎)",
+        "englishName": "Water",
+        "direction": "North",
+        "element": "Water",
+        "familyMember": "Middle Son",
+        "trigram": "☵",
+        "qualities": ["Flowing", "Adaptable", "Profound"],
+        "colors": ["Black", "Blue", "Dark blue"],
+        "enhancements": ["Water features", "Glass", "Mirrors", "Undulating shapes", "Black and blue colors"]
+      },
+      {
+        "name": "Li (離)",
+        "englishName": "Fire",
+        "direction": "South",
+        "element": "Fire",
+        "familyMember": "Middle Daughter",
+        "trigram": "☲",
+        "qualities": ["Illuminating", "Bright", "Insightful"],
+        "colors": ["Red", "Orange", "Purple"],
+        "enhancements": ["Lighting", "Candles", "Pointy shapes", "Triangle shapes", "Red colors"]
+      },
+      {
+        "name": "Dui (兌)",
+        "englishName": "Lake",
+        "direction": "West",
+        "element": "Metal",
+        "familyMember": "Youngest Daughter",
+        "trigram": "☱",
+        "qualities": ["Joyful", "Satisfied", "Contented"],
+        "colors": ["White", "Silver", "Gold"],
+        "enhancements": ["Metal objects", "Round shapes", "White colors"]
+      },
+      {
+        "name": "Xun (巽)",
+        "englishName": "Wind",
+        "direction": "Southeast",
+        "element": "Wood",
+        "familyMember": "Eldest Daughter",
+        "trigram": "☴",
+        "qualities": ["Gentle", "Penetrating", "Persistent"],
+        "colors": ["Green", "Blue-green"],
+        "enhancements": ["Wind chimes", "Mobile objects", "Plants", "Green colors"]
+      }
+    ],
+    "modern": {
+      "wealth": {
+        "sector": "Southeast",
+        "element": "Wood",
+        "colors": ["Purple", "Green", "Red"],
+        "enhancements": ["Healthy plants", "Water features", "Purple items", "Moving objects"]
+      },
+      "fame": {
+        "sector": "South",
+        "element": "Fire",
+        "colors": ["Red", "Orange", "Pink"],
+        "enhancements": ["Lighting", "Candles", "Animals", "Triangular shapes"]
+      },
+      "relationships": {
+        "sector": "Southwest",
+        "element": "Earth",
+        "colors": ["Pink", "Red", "White"],
+        "enhancements": ["Pairs of items", "Artwork with couples", "Rose quartz", "Pink or red accessories"]
+      },
+      "family": {
+        "sector": "East",
+        "element": "Wood",
+        "colors": ["Green", "Blue-green"],
+        "enhancements": ["Tall plants", "Family photos", "Wooden items", "Vertical rectangular shapes"]
+      },
+      "health": {
+        "sector": "Center",
+        "element": "Earth",
+        "colors": ["Yellow", "Orange", "Brown"],
+        "enhancements": ["Yellow objects", "Ceramic items", "Square shapes", "Earth tones"]
+      },
+      "creativity": {
+        "sector": "West",
+        "element": "Metal",
+        "colors": ["White", "Silver", "Gold", "Pastel"],
+        "enhancements": ["Metal objects", "Creative displays", "Artwork", "Round shapes"]
+      },
+      "knowledge": {
+        "sector": "Northeast",
+        "element": "Earth",
+        "colors": ["Blue", "Green", "Black"],
+        "enhancements": ["Books", "Educational items", "Blue items", "Quiet study spaces"]
+      },
+      "career": {
+        "sector": "North",
+        "element": "Water",
+        "colors": ["Black", "Blue", "Dark tones"],
+        "enhancements": ["Water features", "Glass", "Mirrors", "Wavy shapes", "Asymmetrical objects"]
+      },
+      "helpful people": {
+        "sector": "Northwest",
+        "element": "Metal",
+        "colors": ["White", "Silver", "Gold", "Gray"],
+        "enhancements": ["Metal objects", "Round shapes", "Travel mementos", "White colors"]
+      }
+    }
+  },
+  "fiveElements": {
+    "wood": {
+      "nature": "Growing, expanding, flexible",
+      "season": "Spring",
+      "colors": ["Green", "Blue-green", "Light brown"],
+      "direction": "East, Southeast",
+      "shapes": "Rectangular, tall",
+      "materials": ["Plants", "Wood", "Paper", "Cloth"],
+      "enhances": "Water",
+      "controls": "Earth",
+      "weakened by": "Metal",
+      "relationships": {
+        "producing": "Fire",
+        "reducing": "Earth",
+        "reduced by": "Water",
+        "controlling": "Earth",
+        "controlled by": "Metal"
+      }
+    },
+    "fire": {
+      "nature": "Energetic, transformative, expansive",
+      "season": "Summer",
+      "colors": ["Red", "Orange", "Purple", "Pink"],
+      "direction": "South",
+      "shapes": "Triangular, pointed",
+      "materials": ["Lighting", "Candles", "Electronics", "Animals"],
+      "enhances": "Wood",
+      "controls": "Metal",
+      "weakened by": "Water",
+      "relationships": {
+        "producing": "Earth",
+        "reducing": "Metal",
+        "reduced by": "Wood",
+        "controlling": "Metal",
+        "controlled by": "Water"
+      }
+    },
+    "earth": {
+      "nature": "Stable, nurturing, receptive",
+      "season": "Late Summer",
+      "colors": ["Yellow", "Brown", "Orange", "Ochre"],
+      "direction": "Center, Southwest, Northeast",
+      "shapes": "Square, flat",
+      "materials": ["Clay", "Ceramics", "Brick", "Stone"],
+      "enhances": "Fire",
+      "controls": "Water",
+      "weakened by": "Wood",
+      "relationships": {
+        "producing": "Metal",
+        "reducing": "Water",
+        "reduced by": "Fire",
+        "controlling": "Water",
+        "controlled by": "Wood"
+      }
+    },
+    "metal": {
+      "nature": "Contracting, refining, strong",
+      "season": "Autumn",
+      "colors": ["White", "Silver", "Gold", "Gray"],
+      "direction": "West, Northwest",
+      "shapes": "Round, oval",
+      "materials": ["Metal", "Stone", "Gems", "Crystals"],
+      "enhances": "Earth",
+      "controls": "Wood",
+      "weakened by": "Fire",
+      "relationships": {
+        "producing": "Water",
+        "reducing": "Wood",
+        "reduced by": "Earth",
+        "controlling": "Wood",
+        "controlled by": "Fire"
+      }
+    },
+    "water": {
+      "nature": "Flowing, adaptable, profound",
+      "season": "Winter",
+      "colors": ["Black", "Blue", "Dark blue", "Dark tones"],
+      "direction": "North",
+      "shapes": "Wavy, curvy, asymmetrical",
+      "materials": ["Water", "Glass", "Mirrors", "Reflective surfaces"],
+      "enhances": "Metal",
+      "controls": "Fire",
+      "weakened by": "Earth",
+      "relationships": {
+        "producing": "Wood",
+        "reducing": "Fire",
+        "reduced by": "Metal",
+        "controlling": "Fire",
+        "controlled by": "Earth"
+      }
+    }
+  },
+  "flyingStar": {
+    "explanation": "Flying Star Feng Shui is a method that considers the time dimension in Feng Shui analysis. It recognizes that energy patterns shift over time, affecting different sectors of a building or space differently depending on the year, month, and day.",
+    "numbers": {
+      "1": {
+        "name": "Tan Lang (White Water Star)",
+        "element": "Water",
+        "qualities": "Career advancement, wisdom, communication",
+        "auspicious": true,
+        "enhancements": ["Water features", "Blue or black colors", "Flowing shapes", "Metal objects"]
+      },
+      "2": {
+        "name": "Ju Men (Black Earth Star)",
+        "element": "Earth",
+        "qualities": "Illness, misfortune, health issues",
+        "auspicious": false,
+        "remedies": ["Metal elements", "Moving metal", "Metal wind chimes", "Avoid earth elements and yellow colors"]
+      },
+      "3": {
+        "name": "Lu Cun (Jade Wood Star)",
+        "element": "Wood",
+        "qualities": "Arguments, lawsuits, conflict, growth",
+        "auspicious": false,
+        "remedies": ["Metal elements", "White, gold, or silver colors", "Avoid wood and green colors"]
+      },
+      "4": {
+        "name": "Wen Qu (Green Wood Star)",
+        "element": "Wood",
+        "qualities": "Romance, academic achievement, literary success, creativity",
+        "auspicious": true,
+        "enhancements": ["Water features", "Plants", "Blue or green colors", "Wood elements"]
+      },
+      "5": {
+        "name": "Wu Huang (Yellow Earth Star)",
+        "element": "Earth",
+        "qualities": "Misfortune, obstacles, bad luck, illness",
+        "auspicious": false,
+        "remedies": ["Metal elements", "Metal wind chimes", "Moving metal", "Avoid earth elements and yellow colors"]
+      },
+      "6": {
+        "name": "Wu Qu (White Metal Star)",
+        "element": "Metal",
+        "qualities": "Authority, leadership, helpful people, travel",
+        "auspicious": true,
+        "enhancements": ["Metal objects", "White, gold, or silver colors", "Round shapes"]
+      },
+      "7": {
+        "name": "Po Jun (Red Metal Star)",
+        "element": "Metal",
+        "qualities": "Robbery, loss, injuries, violence",
+        "auspicious": false,
+        "remedies": ["Water elements", "Blue or black colors", "Flowing shapes", "Avoid metal and white colors"]
+      },
+      "8": {
+        "name": "Zuo Fu (White Earth Star)",
+        "element": "Earth",
+        "qualities": "Wealth, prosperity, good fortune",
+        "auspicious": true,
+        "enhancements": ["Earth elements", "Yellow, brown, or orange colors", "Square shapes", "Crystals"]
+      },
+      "9": {
+        "name": "You Bi (Purple Fire Star)",
+        "element": "Fire",
+        "qualities": "Celebration, joy, future prosperity, fame",
+        "auspicious": true,
+        "enhancements": ["Fire elements", "Red colors", "Lighting", "Triangular shapes"]
+      }
+    },
+    "periods": {
+      "period8": {
+        "years": "2004-2023",
+        "dominantStar": "8",
+        "description": "A period where the Earth element and the White 8 Star are most powerful. Beneficial for property, real estate, and earth-related industries."
+      },
+      "period9": {
+        "years": "2024-2043",
+        "dominantStar": "9",
+        "description": "A period where the Fire element and the Purple 9 Star are most powerful. Beneficial for technologies, entertainment, and fire-related industries."
+      }
+    }
+  },
+  "compassReadings": {
+    "explanation": "Compass readings are used in Feng Shui to determine the orientation of a building and to calculate the specific energies affecting different areas. The traditional Chinese compass (Luo Pan) has many rings that represent different aspects of Feng Shui.",
+    "mainDirections": {
+      "north": {
+        "degrees": "337.5-22.5",
+        "element": "Water",
+        "trigram": "Kan",
+        "qualities": "Career, life path"
+      },
+      "northeast": {
+        "degrees": "22.5-67.5",
+        "element": "Earth",
+        "trigram": "Gen",
+        "qualities": "Knowledge, education"
+      },
+      "east": {
+        "degrees": "67.5-112.5",
+        "element": "Wood",
+        "trigram": "Zhen",
+        "qualities": "Family, health"
+      },
+      "southeast": {
+        "degrees": "112.5-157.5",
+        "element": "Wood",
+        "trigram": "Xun",
+        "qualities": "Wealth, abundance"
+      },
+      "south": {
+        "degrees": "157.5-202.5",
+        "element": "Fire",
+        "trigram": "Li",
+        "qualities": "Fame, reputation"
+      },
+      "southwest": {
+        "degrees": "202.5-247.5",
+        "element": "Earth",
+        "trigram": "Kun",
+        "qualities": "Love, relationships"
+      },
+      "west": {
+        "degrees": "247.5-292.5",
+        "element": "Metal",
+        "trigram": "Dui",
+        "qualities": "Creativity, children"
+      },
+      "northwest": {
+        "degrees": "292.5-337.5",
+        "element": "Metal",
+        "trigram": "Qian",
+        "qualities": "Helpful people, travel"
+      }
+    }
+  },
+  "specialFormations": {
+    "fourAnimals": {
+      "explanation": "The Four Celestial Animals represent ideal landforms that should surround a property for optimal Feng Shui.",
+      "animals": {
+        "greenDragon": {
+          "direction": "East",
+          "idealForm": "Gently rising land or buildings that are taller toward the southeast and shorter toward the northeast",
+          "qualities": "Growth, expansion, vitality"
+        },
+        "whitetiger": {
+          "direction": "West",
+          "idealForm": "Low, gentle landforms or buildings that are shorter than the Green Dragon",
+          "qualities": "Protection, safety, support"
+        },
+        "redPhoenix": {
+          "direction": "South",
+          "idealForm": "Open space with low buildings or landscapes that allow energy to flow in",
+          "qualities": "Opportunities, recognition, visibility"
+        },
+        "blackTurtle": {
+          "direction": "North",
+          "idealForm": "Higher landforms or taller buildings providing support from behind",
+          "qualities": "Support, protection, stability"
+        }
+      }
+    },
+    "favorableSitePatterns": {
+      "armchair": {
+        "description": "Property has higher ground or structures on three sides (north, east, west) with an open front (south)",
+        "benefits": "Protection, support, while allowing energy to flow in"
+      },
+      "embracingArms": {
+        "description": "Land formations or buildings curve inward like arms embracing the property",
+        "benefits": "Protection, wealth accumulation, emotional support"
+      },
+      "reversedV": {
+        "description": "Water flowing toward the property and then diverging around it in a reversed V shape",
+        "benefits": "Wealth gathering, prosperity, good fortune"
+      },
+      "doubleWaterMouth": {
+        "description": "Water flowing toward the property and then flowing away, creating two water mouths",
+        "benefits": "Financial success, good income flow"
+      }
+    },
+    "unfavorableSitePatterns": {
+      "poisonArrows": {
+        "description": "Sharp corners, straight roads, or pointed structures aimed at the property",
+        "remedies": ["Mirrors", "Convex mirrors", "Plants", "Crystal balls", "Wind chimes"]
+      },
+      "tSquare": {
+        "description": "Property located at the end of a T-junction where a road points directly at it",
+        "remedies": ["Fences", "Walls", "Dense plants", "Convex mirrors", "Protective objects"]
+      },
+      "cutOffTail": {
+        "description": "Back of property cut off or missing",
+        "remedies": ["Mirrors", "Reflective surfaces", "Plants", "Visual extensions", "Supporting structures"]
+      },
+      "sittingOnCutting": {
+        "description": "Property built on a ridge or edge that drops off sharply",
+        "remedies": ["Plantings to visually extend the land", "Terracing", "Supportive structures", "Proper lighting"]
+      }
+    }
+  },
+  "personalDirections": {
+    "explanation": "Personal directions in Feng Shui are calculated based on a person's birth date according to the Chinese calendar. These personal directions can be used to determine favorable locations for different activities.",
+    "kua": {
+      "calculation": "To calculate your Kua Number: For men, subtract your birth year from 10. For women, add 5 to your birth year, then subtract from 10. If the result is 5, the Kua number is 5 for men and 8 for women. Always reduce double digits to a single digit except for 10, which becomes 1.",
+      "groups": {
+        "eastGroup": {
+          "numbers": [1, 3, 4, 9],
+          "favorable": ["East", "Southeast", "South", "North"],
+          "unfavorable": ["West", "Northwest", "Southwest", "Northeast"]
+        },
+        "westGroup": {
+          "numbers": [2, 5, 6, 7, 8],
+          "favorable": ["West", "Northwest", "Southwest", "Northeast"],
+          "unfavorable": ["East", "Southeast", "South", "North"]
+        }
+      }
+    },
+    "personalDirections": {
+      "sheng": {
+        "description": "Life generating direction",
+        "benefits": "Health, vitality, growth",
+        "usage": "Best for sleeping, healing, meditation"
+      },
+      "tian": {
+        "description": "Heavenly doctor direction",
+        "benefits": "Healing, recovery, protection",
+        "usage": "Good for health-related activities, study, healing"
+      },
+      "yan": {
+        "description": "Relationships/romance direction",
+        "benefits": "Love, social connections, relationships",
+        "usage": "Good for social activities, dining, meetings"
+      },
+      "fu": {
+        "description": "Stability/harmony direction",
+        "benefits": "Balance, harmony, peace",
+        "usage": "Good for family areas, relaxation, stability"
+      },
+      "huo": {
+        "description": "Misfortune direction",
+        "cautions": "Challenges, difficulties, obstacles",
+        "usage": "Avoid for important activities, minimize time spent"
+      },
+      "liu": {
+        "description": "Six killings direction",
+        "cautions": "Conflicts, arguments, legal issues",
+        "usage": "Avoid for important decisions, negotiations"
+      },
+      "jue": {
+        "description": "Total loss direction",
+        "cautions": "Financial loss, missed opportunities",
+        "usage": "Avoid for financial activities, investments"
+      },
+      "wu": {
+        "description": "Five ghosts direction",
+        "cautions": "Minor irritations, frustrations, delays",
+        "usage": "Avoid for precise work, creativity"
+      }
+    }
+  }
+}
