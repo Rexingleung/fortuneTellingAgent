@@ -1,0 +1,203 @@
+{
+  "tarotCards": {
+    "majorArcana": [
+      {
+        "name": "The Fool",
+        "number": 0,
+        "keywords": ["beginnings", "innocence", "spontaneity", "free spirit"],
+        "upright": "New beginnings, faith in the future, taking risks, following your heart",
+        "reversed": "Recklessness, carelessness, hesitation, holding back"
+      },
+      {
+        "name": "The Magician",
+        "number": 1,
+        "keywords": ["manifestation", "resourcefulness", "power", "action"],
+        "upright": "Manifestation, resourcefulness, inspired action, power",
+        "reversed": "Manipulation, poor planning, untapped talents"
+      },
+      {
+        "name": "The High Priestess",
+        "number": 2,
+        "keywords": ["intuition", "sacred knowledge", "divine feminine", "subconscious"],
+        "upright": "Intuition, sacred knowledge, divine feminine, the subconscious mind",
+        "reversed": "Secrets, disconnection from intuition, withdrawn, repressed feelings"
+      },
+      {
+        "name": "The Empress",
+        "number": 3,
+        "keywords": ["femininity", "nurturing", "abundance", "fertility"],
+        "upright": "Femininity, beauty, nurturing, abundance, fertility",
+        "reversed": "Creative block, dependence, emptiness, smothering"
+      },
+      {
+        "name": "The Emperor",
+        "number": 4,
+        "keywords": ["authority", "structure", "leadership", "stability"],
+        "upright": "Authority, structure, leadership, stability, father figure",
+        "reversed": "Domination, excessive control, rigidity, inflexibility"
+      },
+      {
+        "name": "The Hierophant",
+        "number": 5,
+        "keywords": ["tradition", "conformity", "morality", "ethics"],
+        "upright": "Spiritual wisdom, tradition, conformity, morality, ethics",
+        "reversed": "Rebellion, challenging conventions, new approaches"
+      },
+      {
+        "name": "The Lovers",
+        "number": 6,
+        "keywords": ["love", "harmony", "choices", "alignment"],
+        "upright": "Love, harmony, relationships, value alignment, choices",
+        "reversed": "Disharmony, misalignment, imbalance, discord"
+      },
+      {
+        "name": "The Chariot",
+        "number": 7,
+        "keywords": ["control", "willpower", "victory", "determination"],
+        "upright": "Control, willpower, success, action, determination",
+        "reversed": "Self-discipline issues, opposition, lack of direction"
+      },
+      {
+        "name": "Strength",
+        "number": 8,
+        "keywords": ["courage", "patience", "compassion", "inner strength"],
+        "upright": "Courage, inner strength, compassion, persuasion, influence",
+        "reversed": "Self-doubt, weakness, insecurity, low energy"
+      },
+      {
+        "name": "The Hermit",
+        "number": 9,
+        "keywords": ["solitude", "introspection", "guidance", "reflection"],
+        "upright": "Soul-searching, introspection, being alone, inner guidance",
+        "reversed": "Isolation, loneliness, withdrawal, regression"
+      },
+      {
+        "name": "Wheel of Fortune",
+        "number": 10,
+        "keywords": ["change", "cycles", "fate", "turning point"],
+        "upright": "Good luck, karma, life cycles, destiny, a turning point",
+        "reversed": "Bad luck, resistance to change, breaking cycles"
+      },
+      {
+        "name": "Justice",
+        "number": 11,
+        "keywords": ["fairness", "truth", "law", "clarity"],
+        "upright": "Justice, fairness, truth, cause and effect, law",
+        "reversed": "Unfairness, lack of accountability, dishonesty"
+      },
+      {
+        "name": "The Hanged Man",
+        "number": 12,
+        "keywords": ["surrender", "perspective", "suspension", "letting go"],
+        "upright": "Surrender, new perspective, enlightenment, letting go",
+        "reversed": "Resistance, stalling, indecision, delays"
+      },
+      {
+        "name": "Death",
+        "number": 13,
+        "keywords": ["transformation", "endings", "change", "transitions"],
+        "upright": "Endings, change, transformation, transition",
+        "reversed": "Resistance to change, inability to move on, stagnation"
+      },
+      {
+        "name": "Temperance",
+        "number": 14,
+        "keywords": ["balance", "moderation", "patience", "harmony"],
+        "upright": "Balance, moderation, patience, purpose, meaning",
+        "reversed": "Imbalance, excess, lack of harmony, impatience"
+      },
+      {
+        "name": "The Devil",
+        "number": 15,
+        "keywords": ["shadow self", "attachment", "addiction", "restriction"],
+        "upright": "Shadow self, attachment, addiction, materialism, sexuality",
+        "reversed": "Releasing limiting beliefs, exploring dark thoughts, detachment"
+      },
+      {
+        "name": "The Tower",
+        "number": 16,
+        "keywords": ["sudden change", "upheaval", "chaos", "revelation"],
+        "upright": "Sudden change, upheaval, chaos, revelation, awakening",
+        "reversed": "Fear of change, avoiding disaster, delaying inevitable"
+      },
+      {
+        "name": "The Star",
+        "number": 17,
+        "keywords": ["hope", "faith", "renewal", "inspiration"],
+        "upright": "Hope, faith, purpose, renewal, spirituality",
+        "reversed": "Lack of faith, despair, self-trust issues, disconnection"
+      },
+      {
+        "name": "The Moon",
+        "number": 18,
+        "keywords": ["illusion", "fear", "anxiety", "subconscious"],
+        "upright": "Illusion, fear, anxiety, subconscious, intuition",
+        "reversed": "Release of fear, repressed emotion, inner confusion"
+      },
+      {
+        "name": "The Sun",
+        "number": 19,
+        "keywords": ["positivity", "success", "joy", "vitality"],
+        "upright": "Positivity, success, joy, vitality, enlightenment",
+        "reversed": "Temporary depression, lack of success, negativity"
+      },
+      {
+        "name": "Judgement",
+        "number": 20,
+        "keywords": ["reflection", "reckoning", "awakening", "rebirth"],
+        "upright": "Judgement, rebirth, inner calling, absolution",
+        "reversed": "Self-doubt, lack of self-awareness, failure to learn lessons"
+      },
+      {
+        "name": "The World",
+        "number": 21,
+        "keywords": ["completion", "accomplishment", "travel", "wholeness"],
+        "upright": "Completion, integration, accomplishment, travel",
+        "reversed": "Seeking personal closure, lack of completion, stagnation"
+      }
+    ],
+    "suitMeanings": {
+      "wands": {
+        "element": "Fire",
+        "themes": "Energy, passion, creativity, action, inspiration, spirituality",
+        "zodiacSigns": "Aries, Leo, Sagittarius"
+      },
+      "cups": {
+        "element": "Water",
+        "themes": "Emotions, feelings, relationships, intuition, inner world",
+        "zodiacSigns": "Cancer, Scorpio, Pisces"
+      },
+      "swords": {
+        "element": "Air",
+        "themes": "Intellect, thought, reason, communication, conflict, truth",
+        "zodiacSigns": "Gemini, Libra, Aquarius"
+      },
+      "pentacles": {
+        "element": "Earth",
+        "themes": "Material world, money, career, physical reality, practicality",
+        "zodiacSigns": "Taurus, Virgo, Capricorn"
+      }
+    },
+    "spreads": {
+      "threeCard": {
+        "name": "Three Card Spread",
+        "positions": ["Past", "Present", "Future"],
+        "description": "A simple but powerful spread that examines the flow of time in a situation."
+      },
+      "celticCross": {
+        "name": "Celtic Cross",
+        "positions": [
+          "Present", "Challenge", "Foundation", "Recent Past", 
+          "Potential Outcome", "Immediate Future", "Your Influence", 
+          "External Influence", "Hopes/Fears", "Final Outcome"
+        ],
+        "description": "A complex and thorough spread that examines many aspects of a situation."
+      },
+      "relationship": {
+        "name": "Relationship Spread",
+        "positions": ["You", "Partner", "Relationship", "Foundation", "Past", "Future"],
+        "description": "Examines the dynamics between two people and the relationship itself."
+      }
+    }
+  }
+}
