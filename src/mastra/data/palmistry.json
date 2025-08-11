@@ -1,0 +1,477 @@
+{
+  "mainLines": {
+    "lifeLine": {
+      "location": "Runs from between the thumb and index finger, arcing around the thumb mount toward the wrist",
+      "interpretation": {
+        "length": {
+          "long": "Vitality, vigor, good energy throughout life",
+          "short": "Independent nature, possible health challenges, intensity of energy"
+        },
+        "depth": {
+          "deep": "Strong vitality, energy, and health",
+          "shallow": "Possible low energy or need for attention to health"
+        },
+        "curve": {
+          "wide": "High energy, enthusiasm for life",
+          "close to thumb": "Tendency toward caution, conserving energy"
+        },
+        "chaining": "Periods of stress or health concerns",
+        "islands": "Temporary health issues, stress or disruptions",
+        "breaks": "Major life changes, health challenges to overcome",
+        "branches": {
+          "upward": "Increased energy, enthusiasm, ambition",
+          "downward": "Draining of energy, potential difficulties"
+        },
+        "fork": "Division of interests or life path, versatility"
+      }
+    },
+    "heartLine": {
+      "location": "Runs horizontally across the upper palm, usually starting under the little finger and extending toward the index or middle finger",
+      "interpretation": {
+        "ending": {
+          "index finger": "Idealistic, possibly demanding in relationships",
+          "middle finger": "Balanced approach to love, realistic expectations",
+          "between index and middle": "Well-balanced emotional nature"
+        },
+        "curve": {
+          "straight": "Logical approach to emotions, controlled feelings",
+          "curved": "Expressive and open with emotions"
+        },
+        "depth": {
+          "deep": "Strong emotions, passionate nature",
+          "shallow": "More reserved emotionally, potentially analytical"
+        },
+        "chaining": "Emotional ups and downs, possible instability",
+        "islands": "Periods of emotional stress or heartbreak",
+        "breaks": "Major emotional changes or transitions",
+        "branches": {
+          "upward": "Positive emotional connections, giving nature",
+          "downward": "Sensitivity, tendency to worry or emotional drain"
+        },
+        "fork": "Divided emotional interests or complex emotional nature"
+      }
+    },
+    "headLine": {
+      "location": "Runs horizontally across the middle of the palm, usually starting between the thumb and index finger",
+      "interpretation": {
+        "length": {
+          "long": "Clear thinking, good concentration, detailed thinking",
+          "short": "Quick decision-maker, direct thinker"
+        },
+        "curve": {
+          "straight": "Logical, practical, realistic thinking",
+          "curved": "Creative, imaginative, intuitive thinking",
+          "sloping": "Creative thinking, imagination, artistic tendencies"
+        },
+        "depth": {
+          "deep": "Clear thinking, good memory, concentration",
+          "shallow": "Easily distracted, quick-thinking"
+        },
+        "chaining": "Concentration issues, mental stress periods",
+        "islands": "Periods of mental confusion or stress",
+        "breaks": "Mental shifts, changes in thinking patterns",
+        "branches": {
+          "upward": "Idealism, mental aspiration",
+          "downward": "Practical application of ideas"
+        },
+        "fork": "Versatile thinking, multiple approaches to problems"
+      }
+    },
+    "fateLine": {
+      "location": "Runs vertically through the center of the palm toward the middle finger",
+      "interpretation": {
+        "presence": {
+          "strong": "Clear life direction, career focus, destiny",
+          "absent": "Self-made path, freedom from destiny, adaptability"
+        },
+        "starting point": {
+          "wrist": "Early sense of purpose or direction",
+          "life line": "Direction influenced by family or early life",
+          "center of palm": "Direction emerging in mid-life"
+        },
+        "depth": {
+          "deep": "Strong focus on career or life path",
+          "shallow": "Less emphasis on traditional career"
+        },
+        "breaks": "Changes in life direction, career shifts",
+        "islands": "Periods of uncertainty or obstacles in path",
+        "branches": {
+          "multiple lines": "Multiple talents or career paths",
+          "upward": "Improvement in career or life direction",
+          "downward": "Potential challenges or detours"
+        }
+      }
+    }
+  },
+  "minorLines": {
+    "sunLine": {
+      "location": "Runs vertically from the wrist toward the ring finger",
+      "interpretation": {
+        "presence": {
+          "strong": "Fame, recognition, success, creative fulfillment",
+          "absent": "Private nature, behind-the-scenes success"
+        },
+        "length": {
+          "long": "Enduring success, lasting recognition",
+          "short": "Brief periods of recognition or success"
+        },
+        "branches": "Multiple avenues for success or recognition",
+        "islands": "Obstacles to success, periods of struggle"
+      }
+    },
+    "healthLine": {
+      "location": "Runs from the mount of Mercury (below the little finger) toward the wrist",
+      "interpretation": {
+        "presence": {
+          "strong": "Health consciousness, vitality awareness",
+          "absent": "Either excellent constitution or lack of health awareness"
+        },
+        "quality": {
+          "clear": "Good health, vitality",
+          "wavy": "Fluctuating health, sensitivity",
+          "broken": "Health challenges to overcome"
+        }
+      }
+    },
+    "marriageLine": {
+      "location": "Short horizontal line(s) on the edge of the palm under the little finger",
+      "interpretation": {
+        "number": "Potential number of significant relationships",
+        "length": {
+          "long": "Enduring relationship, long-term partnership",
+          "short": "Brief but significant connection"
+        },
+        "quality": {
+          "clear": "Harmonious relationship",
+          "wavy": "Emotional ups and downs in relationship",
+          "islands": "Periods of difficulty within relationship",
+          "breaks": "Separations or major challenges"
+        }
+      }
+    },
+    "childrenLines": {
+      "location": "Vertical lines extending upward from the marriage lines",
+      "interpretation": {
+        "number": "Potential number of children or creative projects",
+        "quality": {
+          "long/clear": "Healthy relationships with children",
+          "faint": "Children requiring extra attention"
+        }
+      }
+    },
+    "travelLines": {
+      "location": "Horizontal lines on the edge of the palm under the little finger, below the marriage lines",
+      "interpretation": {
+        "number": "Potential number of significant journeys",
+        "length": {
+          "long": "Extended travels or relocations",
+          "short": "Brief but significant travels"
+        }
+      }
+    },
+    "intuitionLine": {
+      "location": "Curves from the wrist up the edge of the palm toward the little finger",
+      "interpretation": {
+        "presence": {
+          "strong": "Highly intuitive, psychic tendencies",
+          "absent": "More logical, practical approach"
+        },
+        "length": {
+          "long": "Sustained intuitive abilities",
+          "short": "Occasional intuitive flashes"
+        }
+      }
+    }
+  },
+  "mounts": {
+    "venusMount": {
+      "location": "Fleshy area at the base of the thumb",
+      "interpretation": {
+        "prominent": "Passionate, loving, sensual, enthusiastic about life",
+        "average": "Balanced approach to pleasures and relationships",
+        "flat": "Less emphasis on physical pleasures, potentially reserved"
+      },
+      "lines": {
+        "grilles": "Nervous energy, potentially scattered passions",
+        "vertical lines": "Strong passionate nature, creative energy",
+        "horizontal lines": "Obstacles to expression of passions"
+      }
+    },
+    "jupiterMount": {
+      "location": "Fleshy area at the base of the index finger",
+      "interpretation": {
+        "prominent": "Leadership qualities, ambition, spirituality",
+        "average": "Balanced ambition and confidence",
+        "flat": "Potentially lacking confidence or leadership drive"
+      },
+      "lines": {
+        "vertical lines": "Strong ambition, successful leadership",
+        "horizontal lines": "Obstacles to ambition or leadership",
+        "star": "Exceptional success, recognition"
+      }
+    },
+    "saturnMount": {
+      "location": "Fleshy area at the base of the middle finger",
+      "interpretation": {
+        "prominent": "Serious, responsible, disciplined, potentially melancholic",
+        "average": "Balanced sense of responsibility",
+        "flat": "Potentially lacking seriousness or discipline"
+      },
+      "lines": {
+        "vertical lines": "Deep thinking, scholarly tendencies",
+        "horizontal lines": "Obstacles to success, potential for restrictions",
+        "triangle": "Wisdom, practical knowledge"
+      }
+    },
+    "apolloMount": {
+      "location": "Fleshy area at the base of the ring finger",
+      "interpretation": {
+        "prominent": "Creative, artistic, success-oriented, recognition-seeking",
+        "average": "Balanced artistic and creative nature",
+        "flat": "Potentially lacking creative expression or recognition"
+      },
+      "lines": {
+        "vertical lines": "Creative success, artistic recognition",
+        "horizontal lines": "Obstacles to creative expression",
+        "star": "Fame, notable artistic success"
+      }
+    },
+    "mercuryMount": {
+      "location": "Fleshy area at the base of the little finger",
+      "interpretation": {
+        "prominent": "Communicative, business-oriented, quick-witted",
+        "average": "Balanced communication and business skills",
+        "flat": "Potentially quiet or less business-oriented"
+      },
+      "lines": {
+        "vertical lines": "Success in business or communication",
+        "horizontal lines": "Obstacles to communication or business",
+        "triangle": "Business acumen, clever strategies"
+      }
+    },
+    "marsMount": {
+      "location": "Fleshy area between the thumb and index finger",
+      "interpretation": {
+        "prominent": "Courage, assertiveness, potentially aggressive",
+        "average": "Balanced courage and assertiveness",
+        "flat": "Potentially lacking courage or assertiveness"
+      }
+    },
+    "lunarMount": {
+      "location": "Fleshy area on the edge of the palm opposite the thumb",
+      "interpretation": {
+        "prominent": "Imaginative, intuitive, creative, potentially moody",
+        "average": "Balanced imagination and practicality",
+        "flat": "Potentially lacking imagination or intuition"
+      },
+      "lines": {
+        "vertical lines": "Creative success, intuitive abilities",
+        "horizontal lines": "Obstacles to intuitive development",
+        "star": "Psychic abilities, exceptional creativity"
+      }
+    },
+    "plainsOfMars": {
+      "location": "Central area of the palm",
+      "interpretation": {
+        "hollow": "Potential energy depletion, sensitivity",
+        "flat": "Balanced energy",
+        "raised": "Excess energy, potential for aggression"
+      }
+    }
+  },
+  "handShapes": {
+    "earth": {
+      "characteristics": "Square palm with short fingers, wide, thick hand",
+      "interpretation": "Practical, reliable, grounded, materialistic, potentially stubborn"
+    },
+    "air": {
+      "characteristics": "Square palm with long fingers, dry skin, visible knuckles",
+      "interpretation": "Intellectual, communicative, analytical, potentially overthinking"
+    },
+    "water": {
+      "characteristics": "Rectangular palm with long fingers, soft skin, flexible hand",
+      "interpretation": "Emotional, intuitive, sensitive, creative, potentially moody"
+    },
+    "fire": {
+      "characteristics": "Rectangular palm with short fingers, warm skin tone, firm texture",
+      "interpretation": "Energetic, passionate, action-oriented, potentially impulsive"
+    }
+  },
+  "fingerTypes": {
+    "thumbTypes": {
+      "long": "Independent, strong-willed, determined",
+      "short": "Cautious, potentially lacking willpower",
+      "flexible": "Adaptable, open-minded, generous",
+      "stiff": "Stubborn, unwilling to compromise",
+      "lowSet": "Practical, down-to-earth approach",
+      "highSet": "Independent thinking, originality"
+    },
+    "indexFingerTypes": {
+      "long": "Leadership qualities, ambition, confidence",
+      "short": "Lack of confidence, potential insecurity",
+      "curved": "Creative leadership, unconventional approach",
+      "straight": "Direct leadership style, traditional approach"
+    },
+    "middleFingerTypes": {
+      "long": "Strong sense of responsibility, perfectionism",
+      "short": "Unconventional approach to responsibilities",
+      "curved": "Balance of practicality and creativity",
+      "straight": "Strong moral character, traditional values"
+    },
+    "ringFingerTypes": {
+      "long": "Artistic, success-oriented, risk-taker",
+      "short": "Practical creativity, less focus on recognition",
+      "curved": "Artistic expression, unconventional approach",
+      "straight": "Traditional creative expression"
+    },
+    "littleFingerTypes": {
+      "long": "Strong communication skills, persuasive",
+      "short": "Direct communication, potential challenges in expression",
+      "curved": "Unconventional communication style",
+      "straight": "Straightforward, direct communication"
+    }
+  },
+  "fingerprints": {
+    "loops": {
+      "description": "Curved ridge pattern that enters and exits from the same side",
+      "interpretation": "Adaptable, flexible, sociable, potentially inconsistent"
+    },
+    "whorls": {
+      "description": "Circular or spiral pattern",
+      "interpretation": "Independent, persistent, potentially stubborn, unique perspective"
+    },
+    "arches": {
+      "description": "Ridge pattern that enters from one side and exits from the other, forming an arch",
+      "interpretation": "Practical, reliable, stable, potentially resistant to change"
+    },
+    "peacock'sEye": {
+      "description": "Rare pattern combining whorl with a loop",
+      "interpretation": "Unique talents, distinctive perspective, unconventional approach"
+    },
+    "composites": {
+      "description": "Combination of two or more basic patterns",
+      "interpretation": "Complex personality, adaptable to different situations"
+    }
+  },
+  "specialMarks": {
+    "star": {
+      "description": "Several lines crossing at a point forming a star-like shape",
+      "interpretation": {
+        "jupiterMount": "Great success, achievement of ambitions",
+        "saturnMount": "Warning sign, potential obstacles",
+        "apolloMount": "Fame, creative success, recognition",
+        "mercuryMount": "Success in business or communication",
+        "venus": "Trouble in love life"
+      }
+    },
+    "cross": {
+      "description": "Two lines crossing each other",
+      "interpretation": {
+        "jupiterMount": "Fortunate choice in relationships",
+        "saturnMount": "Obstacle or difficulty",
+        "apolloMount": "Misleading creative instincts",
+        "mercuryMount": "Deceptive tendencies in business",
+        "venus": "Unhappy love experience"
+      }
+    },
+    "triangle": {
+      "description": "Three lines forming a triangle",
+      "interpretation": {
+        "jupiterMount": "Diplomatic abilities, leadership talent",
+        "saturnMount": "Success through discipline",
+        "apolloMount": "Artistic talent, creative success",
+        "mercuryMount": "Business acumen, scientific talent",
+        "venus": "Success in romantic pursuits"
+      }
+    },
+    "square": {
+      "description": "Four lines forming a square or rectangle",
+      "interpretation": "Protection, stability, preservation from difficulties"
+    },
+    "island": {
+      "description": "Line splitting and rejoining to form an enclosed space",
+      "interpretation": "Period of difficulty, stress, or weakness"
+    },
+    "grille": {
+      "description": "Multiple lines crossing each other in a grid pattern",
+      "interpretation": "Excess energy, potential for stress or confusion"
+    },
+    "dot": {
+      "description": "Small point on a line",
+      "interpretation": "Temporary difficulty, potential health issue"
+    }
+  },
+  "traditionalSystems": {
+    "indian": {
+      "description": "Indian palmistry (Hasta Samudrika Shastra) emphasizes spiritual aspects and connection to astrology",
+      "keyElements": {
+        "fateLineMeaning": "Spiritual path and dharma (life purpose)",
+        "mountSignificance": "Connection to planetary influences",
+        "specialSigns": "Spiritual indicators like fish, swastika (auspicious symbol in Hinduism), trident"
+      }
+    },
+    "chinese": {
+      "description": "Chinese palmistry emphasizes balance of elements and connection to Chinese astrology",
+      "keyElements": {
+        "elementalBalance": "Assessment of wood, fire, earth, metal, water elements in the hand",
+        "marriageHouse": "Area below little finger analyzed for relationship potential",
+        "lifeLineQualities": "Emphasis on quality rather than length as indicator of life span"
+      }
+    },
+    "gypsyRomani": {
+      "description": "Gypsy/Romani tradition emphasizes prediction and fortune-telling aspects",
+      "keyElements": {
+        "travelLines": "Greater emphasis on journey lines and their meanings",
+        "colorAnalysis": "Attention to palm coloration and markings",
+        "inheritanceMarks": "Signs indicating inherited fortunes or gifts"
+      }
+    },
+    "western": {
+      "description": "Western palmistry emphasizes psychological analysis and potential",
+      "keyElements": {
+        "psychologicalInterpretation": "Focus on personality traits and psychological tendencies",
+        "potentialAnalysis": "Emphasis on talents and potentials rather than fixed fate",
+        "changeability": "Recognition that lines can change with personal development"
+      }
+    }
+  },
+  "handDominance": {
+    "rightHand": {
+      "meaning": "In traditional palmistry, represents the active self, what you are currently developing in this life"
+    },
+    "leftHand": {
+      "meaning": "In traditional palmistry, represents the passive self, inherited traits, potential you were born with"
+    },
+    "dominantHand": {
+      "meaning": "Shows how you express yourself in the world, your conscious development"
+    },
+    "nonDominantHand": {
+      "meaning": "Shows potential talents, inherent traits, subconscious patterns"
+    },
+    "comparison": {
+      "similar": "What you were born with aligns with how you're developing",
+      "different": "Your life path has diverged from inherited or innate tendencies"
+    }
+  },
+  "readingProcess": {
+    "steps": [
+      "Observe general hand shape and size",
+      "Note skin texture, flexibility, and color",
+      "Examine dominant hand first, then non-dominant for comparison",
+      "Analyze the major lines (life, head, heart, fate)",
+      "Look at minor lines for additional insights",
+      "Examine mounts and their development",
+      "Note any special marks or formations",
+      "Consider finger length, shape, and proportion",
+      "Synthesize all observations into a cohesive interpretation"
+    ],
+    "ethics": [
+      "Avoid absolute predictions, especially negative ones",
+      "Emphasize potential and choice rather than fixed fate",
+      "Present balanced observations including both strengths and challenges",
+      "Respect cultural differences in interpretation",
+      "Acknowledge that palmistry is one perspective among many",
+      "Empower the individual to make their own choices"
+    ]
+  }
+}
