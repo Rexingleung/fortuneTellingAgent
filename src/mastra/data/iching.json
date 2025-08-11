@@ -1,0 +1,180 @@
+{
+  "hexagrams": [
+    {
+      "number": 1,
+      "name": "乾 (Qián)",
+      "englishName": "The Creative",
+      "chineseDescription": "乾为天",
+      "trigrams": "天天",
+      "image": "天行健，君子以自强不息。",
+      "description": "The Creative principle is strong, dynamic, and persevering. It represents pure yang energy, the father, heaven, and creative power.",
+      "judgment": "The Creative works sublime success, furthering through perseverance.",
+      "lines": [
+        "Hidden dragon. Do not act.",
+        "Dragon appearing in the field. It furthers one to see the great man.",
+        "All day long the superior man is creatively active. At nightfall his mind is still beset with cares. Danger. No blame.",
+        "Wavering flight over the depths. No blame.",
+        "Flying dragon in the heavens. It furthers one to see the great man.",
+        "Arrogant dragon will have cause to repent."
+      ]
+    },
+    {
+      "number": 2,
+      "name": "坤 (Kūn)",
+      "englishName": "The Receptive",
+      "chineseDescription": "坤为地",
+      "trigrams": "地地",
+      "image": "地势坤，君子以厚德载物。",
+      "description": "The Receptive principle is yielding, devoted, and responsive. It represents pure yin energy, the mother, earth, and receptive power.",
+      "judgment": "The Receptive brings about sublime success, furthering through the perseverance of a mare. If the superior man undertakes something and tries to lead, he goes astray; but if he follows, he finds guidance.",
+      "lines": [
+        "When there is hoarfrost underfoot, solid ice is not far off.",
+        "Straight, square, great. Without purpose, yet nothing remains unfurthered.",
+        "Hidden lines. One is able to remain persevering. If by chance you are in the service of a king, seek not works, but bring to completion.",
+        "A tied-up sack. No blame, no praise.",
+        "A yellow lower garment brings supreme good fortune.",
+        "Dragons fight in the meadow. Their blood is black and yellow."
+      ]
+    },
+    {
+      "number": 3,
+      "name": "屯 (Zhūn)",
+      "englishName": "Difficulty at the Beginning",
+      "chineseDescription": "水雷屯",
+      "trigrams": "水雷",
+      "image": "云雷屯，君子以经纶。",
+      "description": "This hexagram represents the initial stage of a new cycle, characterized by difficulty and the need for perseverance.",
+      "judgment": "Difficulty at the Beginning works supreme success, furthering through perseverance. Nothing should be undertaken. It furthers one to appoint helpers.",
+      "lines": [
+        "Hesitation and hindrance. It furthers one to remain persevering. It furthers one to appoint helpers.",
+        "Difficulties pile up. Horse and wagon part. He is not a robber; he wants to woo when the time comes. The maiden is chaste, she does not pledge herself. Ten years—then she pledges herself.",
+        "Whoever hunts deer without the forester only loses his way in the forest. The superior man understands the signs of the time and prefers to desist. To go on brings humiliation.",
+        "Horse and wagon part. Strive for union. To go brings good fortune. Everything acts to further.",
+        "Difficulties in blessing. A little perseverance brings good fortune. Great perseverance brings misfortune.",
+        "Horse and wagon part. Bloody tears flow."
+      ]
+    },
+    {
+      "number": 4,
+      "name": "蒙 (Méng)",
+      "englishName": "Youthful Folly",
+      "chineseDescription": "山水蒙",
+      "trigrams": "山水",
+      "image": "山下出泉，蒙；君子以果行育德。",
+      "description": "This hexagram represents inexperience, the need for education, and the challenge of guiding those who are immature or ignorant.",
+      "judgment": "Youthful Folly has success. It is not I who seek the young fool; the young fool seeks me. At the first oracle I inform him. If he asks two or three times, it is importunity. If he importunes, I give him no information. Perseverance furthers.",
+      "lines": [
+        "To dispel ignorance it furthers one to punish people. To remove shackles brings remorse. Furthering through perseverance.",
+        "To bear with fools in kindliness brings good fortune. To know how to take women brings good fortune. The son is capable of taking charge of the household.",
+        "Take not a maiden who, when she sees a man of bronze, loses possession of herself. Nothing furthers.",
+        "Entangled folly brings humiliation.",
+        "Childlike folly brings good fortune.",
+        "In punishing folly it does not further one to commit transgressions. The only thing that furthers is to prevent transgressions."
+      ]
+    },
+    {
+      "number": 5,
+      "name": "需 (Xū)",
+      "englishName": "Waiting",
+      "chineseDescription": "水天需",
+      "trigrams": "水天",
+      "image": "云上于天，需；君子以饮食宴乐。",
+      "description": "This hexagram represents the necessity of waiting for the right moment, being patient, and maintaining faith during times of uncertainty.",
+      "judgment": "Waiting. If you are sincere, you have light and success. Perseverance brings good fortune. It furthers one to cross the great water.",
+      "lines": [
+        "Waiting in the meadow. It furthers one to abide in what endures. No blame.",
+        "Waiting on the sand. There is some gossip. The end brings good fortune.",
+        "Waiting in the mud brings about the arrival of the enemy.",
+        "Waiting in blood. Get out of the pit.",
+        "Waiting at meat and drink. Perseverance brings good fortune.",
+        "One falls into the pit. Three uninvited guests arrive. Honor them, and in the end there will be good fortune."
+      ]
+    }
+  ],
+  "trigrams": [
+    {
+      "name": "乾 (Qián)",
+      "englishName": "Heaven",
+      "symbol": "☰",
+      "image": "天",
+      "attributes": "Strong, creative, active, dynamic, father",
+      "element": "Metal"
+    },
+    {
+      "name": "坤 (Kūn)",
+      "englishName": "Earth",
+      "symbol": "☷",
+      "image": "地",
+      "attributes": "Receptive, yielding, nurturing, supportive, mother",
+      "element": "Earth"
+    },
+    {
+      "name": "震 (Zhèn)",
+      "englishName": "Thunder",
+      "symbol": "☳",
+      "image": "雷",
+      "attributes": "Arousing, shocking, active, eldest son",
+      "element": "Wood"
+    },
+    {
+      "name": "巽 (Xùn)",
+      "englishName": "Wind",
+      "symbol": "☴",
+      "image": "风",
+      "attributes": "Gentle, penetrating, flexible, eldest daughter",
+      "element": "Wood"
+    },
+    {
+      "name": "坎 (Kǎn)",
+      "englishName": "Water",
+      "symbol": "☵",
+      "image": "水",
+      "attributes": "Dangerous, abysmal, flowing, middle son",
+      "element": "Water"
+    },
+    {
+      "name": "离 (Lí)",
+      "englishName": "Fire",
+      "symbol": "☲",
+      "image": "火",
+      "attributes": "Clinging, radiant, beauty, middle daughter",
+      "element": "Fire"
+    },
+    {
+      "name": "艮 (Gèn)",
+      "englishName": "Mountain",
+      "symbol": "☶",
+      "image": "山",
+      "attributes": "Keeping still, stopping, youngest son",
+      "element": "Earth"
+    },
+    {
+      "name": "兑 (Duì)",
+      "englishName": "Lake",
+      "symbol": "☱",
+      "image": "泽",
+      "attributes": "Joyful, open, youngest daughter",
+      "element": "Metal"
+    }
+  ],
+  "methods": {
+    "threeCoin": {
+      "description": "The Three Coin method involves tossing three coins six times to build a hexagram from bottom to top.",
+      "interpretation": {
+        "3 heads": "9 (old yang) - changing line",
+        "2 heads, 1 tail": "7 (young yang) - stable line",
+        "1 head, 2 tails": "8 (young yin) - stable line",
+        "3 tails": "6 (old yin) - changing line"
+      }
+    },
+    "yarrowStalk": {
+      "description": "The traditional Yarrow Stalk method uses 50 yarrow stalks and a complex process of division to build the hexagram.",
+      "probabilities": {
+        "old yin (6)": "1/16",
+        "young yang (7)": "5/16",
+        "young yin (8)": "7/16",
+        "old yang (9)": "3/16"
+      }
+    }
+  }
+}
