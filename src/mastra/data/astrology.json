@@ -1,0 +1,477 @@
+{
+  "westernAstrology": {
+    "zodiacSigns": [
+      {
+        "name": "Aries",
+        "symbol": "♈",
+        "dates": "March 21 - April 19",
+        "element": "Fire",
+        "quality": "Cardinal",
+        "rulingPlanet": "Mars",
+        "traits": ["Courageous", "Determined", "Confident", "Enthusiastic", "Impatient", "Impulsive"],
+        "compatibility": ["Leo", "Sagittarius", "Gemini", "Aquarius"],
+        "description": "Aries is the first sign of the zodiac, symbolized by the Ram. They are natural leaders, initiators and are known for their pioneering spirit and bold approach to life."
+      },
+      {
+        "name": "Taurus",
+        "symbol": "♉",
+        "dates": "April 20 - May 20",
+        "element": "Earth",
+        "quality": "Fixed",
+        "rulingPlanet": "Venus",
+        "traits": ["Reliable", "Patient", "Practical", "Devoted", "Stubborn", "Possessive"],
+        "compatibility": ["Virgo", "Capricorn", "Cancer", "Pisces"],
+        "description": "Taurus is symbolized by the Bull, representing stability and persistence. They are known for their practicality, reliability, and appreciation for beauty and comfort."
+      },
+      {
+        "name": "Gemini",
+        "symbol": "♊",
+        "dates": "May 21 - June 20",
+        "element": "Air",
+        "quality": "Mutable",
+        "rulingPlanet": "Mercury",
+        "traits": ["Gentle", "Curious", "Adaptable", "Communicative", "Nervous", "Inconsistent"],
+        "compatibility": ["Libra", "Aquarius", "Aries", "Leo"],
+        "description": "Gemini is symbolized by the Twins, representing duality and communication. They are known for their curiosity, adaptability, and quick-witted nature."
+      },
+      {
+        "name": "Cancer",
+        "symbol": "♋",
+        "dates": "June 21 - July 22",
+        "element": "Water",
+        "quality": "Cardinal",
+        "rulingPlanet": "Moon",
+        "traits": ["Tenacious", "Emotional", "Intuitive", "Caring", "Moody", "Overprotective"],
+        "compatibility": ["Scorpio", "Pisces", "Taurus", "Virgo"],
+        "description": "Cancer is symbolized by the Crab, representing emotional depth and security. They are known for their nurturing nature, intuition, and strong attachment to home and family."
+      },
+      {
+        "name": "Leo",
+        "symbol": "♌",
+        "dates": "July 23 - August 22",
+        "element": "Fire",
+        "quality": "Fixed",
+        "rulingPlanet": "Sun",
+        "traits": ["Creative", "Passionate", "Generous", "Warm-hearted", "Arrogant", "Domineering"],
+        "compatibility": ["Aries", "Sagittarius", "Gemini", "Libra"],
+        "description": "Leo is symbolized by the Lion, representing courage and royalty. They are known for their confidence, leadership, and dramatic flair."
+      },
+      {
+        "name": "Virgo",
+        "symbol": "♍",
+        "dates": "August 23 - September 22",
+        "element": "Earth",
+        "quality": "Mutable",
+        "rulingPlanet": "Mercury",
+        "traits": ["Analytical", "Practical", "Diligent", "Kind", "Overly critical", "Perfectionist"],
+        "compatibility": ["Taurus", "Capricorn", "Cancer", "Scorpio"],
+        "description": "Virgo is symbolized by the Maiden, representing purity and service. They are known for their attention to detail, practicality, and analytical approach to life."
+      },
+      {
+        "name": "Libra",
+        "symbol": "♎",
+        "dates": "September 23 - October 22",
+        "element": "Air",
+        "quality": "Cardinal",
+        "rulingPlanet": "Venus",
+        "traits": ["Diplomatic", "Harmonious", "Fair-minded", "Social", "Indecisive", "Avoids confrontation"],
+        "compatibility": ["Gemini", "Aquarius", "Leo", "Sagittarius"],
+        "description": "Libra is symbolized by the Scales, representing balance and harmony. They are known for their diplomatic nature, fairness, and love of beauty and social connection."
+      },
+      {
+        "name": "Scorpio",
+        "symbol": "♏",
+        "dates": "October 23 - November 21",
+        "element": "Water",
+        "quality": "Fixed",
+        "rulingPlanet": "Pluto, Mars",
+        "traits": ["Passionate", "Resourceful", "Brave", "Determined", "Secretive", "Jealous"],
+        "compatibility": ["Cancer", "Pisces", "Virgo", "Capricorn"],
+        "description": "Scorpio is symbolized by the Scorpion, representing intensity and transformation. They are known for their depth, passion, and ability to transform themselves and others."
+      },
+      {
+        "name": "Sagittarius",
+        "symbol": "♐",
+        "dates": "November 22 - December 21",
+        "element": "Fire",
+        "quality": "Mutable",
+        "rulingPlanet": "Jupiter",
+        "traits": ["Generous", "Idealistic", "Philosophical", "Enthusiastic", "Restless", "Tactless"],
+        "compatibility": ["Aries", "Leo", "Libra", "Aquarius"],
+        "description": "Sagittarius is symbolized by the Archer, representing vision and freedom. They are known for their optimism, adventurous spirit, and philosophical nature."
+      },
+      {
+        "name": "Capricorn",
+        "symbol": "♑",
+        "dates": "December 22 - January 19",
+        "element": "Earth",
+        "quality": "Cardinal",
+        "rulingPlanet": "Saturn",
+        "traits": ["Responsible", "Disciplined", "Self-controlled", "Practical", "Unforgiving", "Status-oriented"],
+        "compatibility": ["Taurus", "Virgo", "Scorpio", "Pisces"],
+        "description": "Capricorn is symbolized by the Goat, representing ambition and responsibility. They are known for their discipline, practicality, and determination to achieve their goals."
+      },
+      {
+        "name": "Aquarius",
+        "symbol": "♒",
+        "dates": "January 20 - February 18",
+        "element": "Air",
+        "quality": "Fixed",
+        "rulingPlanet": "Uranus, Saturn",
+        "traits": ["Progressive", "Original", "Independent", "Humanitarian", "Detached", "Emotionally aloof"],
+        "compatibility": ["Gemini", "Libra", "Aries", "Sagittarius"],
+        "description": "Aquarius is symbolized by the Water Bearer, representing innovation and humanitarianism. They are known for their originality, independent thinking, and vision for the future."
+      },
+      {
+        "name": "Pisces",
+        "symbol": "♓",
+        "dates": "February 19 - March 20",
+        "element": "Water",
+        "quality": "Mutable",
+        "rulingPlanet": "Neptune, Jupiter",
+        "traits": ["Compassionate", "Intuitive", "Artistic", "Gentle", "Escapist", "Overly sensitive"],
+        "compatibility": ["Cancer", "Scorpio", "Taurus", "Capricorn"],
+        "description": "Pisces is symbolized by the Fish, representing spirituality and emotional depth. They are known for their compassion, intuition, and artistic sensibilities."
+      }
+    ],
+    "planets": [
+      {
+        "name": "Sun",
+        "symbol": "☉",
+        "represents": "Core identity, ego, vitality, life purpose",
+        "orbPeriod": "1 year",
+        "keywords": ["Self", "Identity", "Purpose", "Vitality", "Individuality"]
+      },
+      {
+        "name": "Moon",
+        "symbol": "☽",
+        "represents": "Emotions, subconscious, nurturing, inner needs",
+        "orbPeriod": "28 days",
+        "keywords": ["Emotions", "Nurturing", "Instincts", "Mother", "Home"]
+      },
+      {
+        "name": "Mercury",
+        "symbol": "☿",
+        "represents": "Communication, intellect, perception, reasoning",
+        "orbPeriod": "88 days",
+        "keywords": ["Communication", "Mind", "Information", "Learning", "Exchange"]
+      },
+      {
+        "name": "Venus",
+        "symbol": "♀",
+        "represents": "Love, beauty, attraction, values, harmony",
+        "orbPeriod": "225 days",
+        "keywords": ["Love", "Beauty", "Values", "Attraction", "Harmony"]
+      },
+      {
+        "name": "Mars",
+        "symbol": "♂",
+        "represents": "Action, desire, energy, courage, conflict",
+        "orbPeriod": "687 days",
+        "keywords": ["Action", "Desire", "Energy", "Courage", "Assertion"]
+      },
+      {
+        "name": "Jupiter",
+        "symbol": "♃",
+        "represents": "Expansion, growth, wisdom, fortune, abundance",
+        "orbPeriod": "12 years",
+        "keywords": ["Expansion", "Growth", "Wisdom", "Abundance", "Opportunity"]
+      },
+      {
+        "name": "Saturn",
+        "symbol": "♄",
+        "represents": "Structure, limitation, responsibility, discipline, maturity",
+        "orbPeriod": "29 years",
+        "keywords": ["Structure", "Limitation", "Responsibility", "Authority", "Time"]
+      },
+      {
+        "name": "Uranus",
+        "symbol": "♅",
+        "represents": "Innovation, rebellion, suddenness, awakening, progress",
+        "orbPeriod": "84 years",
+        "keywords": ["Innovation", "Rebellion", "Change", "Awakening", "Freedom"]
+      },
+      {
+        "name": "Neptune",
+        "symbol": "♆",
+        "represents": "Dreams, illusion, spirituality, inspiration, dissolution",
+        "orbPeriod": "165 years",
+        "keywords": ["Dreams", "Spirituality", "Illusion", "Inspiration", "Compassion"]
+      },
+      {
+        "name": "Pluto",
+        "symbol": "♇",
+        "represents": "Transformation, power, rebirth, destruction, evolution",
+        "orbPeriod": "248 years",
+        "keywords": ["Transformation", "Power", "Death/Rebirth", "Depth", "Intensity"]
+      }
+    ],
+    "houses": [
+      {
+        "number": 1,
+        "name": "First House",
+        "area": "Self, appearance, beginnings",
+        "naturalSign": "Aries",
+        "naturalRuler": "Mars"
+      },
+      {
+        "number": 2,
+        "name": "Second House",
+        "area": "Values, possessions, resources",
+        "naturalSign": "Taurus",
+        "naturalRuler": "Venus"
+      },
+      {
+        "number": 3,
+        "name": "Third House",
+        "area": "Communication, learning, siblings",
+        "naturalSign": "Gemini",
+        "naturalRuler": "Mercury"
+      },
+      {
+        "number": 4,
+        "name": "Fourth House",
+        "area": "Home, family, foundations",
+        "naturalSign": "Cancer",
+        "naturalRuler": "Moon"
+      },
+      {
+        "number": 5,
+        "name": "Fifth House",
+        "area": "Creativity, pleasure, children",
+        "naturalSign": "Leo",
+        "naturalRuler": "Sun"
+      },
+      {
+        "number": 6,
+        "name": "Sixth House",
+        "area": "Work, health, service",
+        "naturalSign": "Virgo",
+        "naturalRuler": "Mercury"
+      },
+      {
+        "number": 7,
+        "name": "Seventh House",
+        "area": "Partnerships, marriage, contracts",
+        "naturalSign": "Libra",
+        "naturalRuler": "Venus"
+      },
+      {
+        "number": 8,
+        "name": "Eighth House",
+        "area": "Transformation, shared resources, intimacy",
+        "naturalSign": "Scorpio",
+        "naturalRuler": "Pluto"
+      },
+      {
+        "number": 9,
+        "name": "Ninth House",
+        "area": "Higher learning, travel, philosophy",
+        "naturalSign": "Sagittarius",
+        "naturalRuler": "Jupiter"
+      },
+      {
+        "number": 10,
+        "name": "Tenth House",
+        "area": "Career, public image, authority",
+        "naturalSign": "Capricorn",
+        "naturalRuler": "Saturn"
+      },
+      {
+        "number": 11,
+        "name": "Eleventh House",
+        "area": "Friends, groups, hopes and wishes",
+        "naturalSign": "Aquarius",
+        "naturalRuler": "Uranus"
+      },
+      {
+        "number": 12,
+        "name": "Twelfth House",
+        "area": "Subconscious, secrets, spiritual growth",
+        "naturalSign": "Pisces",
+        "naturalRuler": "Neptune"
+      }
+    ],
+    "aspects": [
+      {
+        "name": "Conjunction",
+        "symbol": "☌",
+        "angle": "0°",
+        "nature": "Unifying, intensifying",
+        "interpretation": "Planets are merged and their energies combine, intensifying both energies."
+      },
+      {
+        "name": "Opposition",
+        "symbol": "☍",
+        "angle": "180°",
+        "nature": "Challenging, balancing",
+        "interpretation": "Planets are in tension but can create balance through integration."
+      },
+      {
+        "name": "Trine",
+        "symbol": "△",
+        "angle": "120°",
+        "nature": "Harmonious, flowing",
+        "interpretation": "Planets work together smoothly, creating natural talents and ease."
+      },
+      {
+        "name": "Square",
+        "symbol": "□",
+        "angle": "90°",
+        "nature": "Challenging, dynamic",
+        "interpretation": "Planets create tension and challenges that motivate action and growth."
+      },
+      {
+        "name": "Sextile",
+        "symbol": "⚹",
+        "angle": "60°",
+        "nature": "Harmonious, supportive",
+        "interpretation": "Planets work together in a supportive way, creating opportunities."
+      },
+      {
+        "name": "Quincunx",
+        "symbol": "⚻",
+        "angle": "150°",
+        "nature": "Awkward, adjusting",
+        "interpretation": "Planets require adjustment and adaptation to work together."
+      }
+    ]
+  },
+  "chineseAstrology": {
+    "animals": [
+      {
+        "name": "Rat",
+        "years": ["1924", "1936", "1948", "1960", "1972", "1984", "1996", "2008", "2020"],
+        "element": ["Wood", "Fire", "Earth", "Metal", "Water"],
+        "traits": ["Quick-witted", "Resourceful", "Adaptable", "Kind", "Opportunistic"],
+        "compatibility": ["Dragon", "Monkey", "Ox"],
+        "description": "The Rat is the first sign of the Chinese zodiac. People born in the Year of the Rat are clever, quick-witted, and resourceful. They are adaptable to new environments and good at taking advantage of opportunities."
+      },
+      {
+        "name": "Ox",
+        "years": ["1925", "1937", "1949", "1961", "1973", "1985", "1997", "2009", "2021"],
+        "element": ["Wood", "Fire", "Earth", "Metal", "Water"],
+        "traits": ["Diligent", "Dependable", "Strong", "Patient", "Stubborn"],
+        "compatibility": ["Snake", "Rooster", "Rat"],
+        "description": "The Ox is the second sign of the Chinese zodiac. People born in the Year of the Ox are diligent, dependable, and methodical. They are known for their strong work ethic and reliability."
+      },
+      {
+        "name": "Tiger",
+        "years": ["1926", "1938", "1950", "1962", "1974", "1986", "1998", "2010", "2022"],
+        "element": ["Wood", "Fire", "Earth", "Metal", "Water"],
+        "traits": ["Brave", "Confident", "Competitive", "Unpredictable", "Charming"],
+        "compatibility": ["Horse", "Dog", "Pig"],
+        "description": "The Tiger is the third sign of the Chinese zodiac. People born in the Year of the Tiger are brave, competitive, and self-confident. They are known for their courage and charm."
+      },
+      {
+        "name": "Rabbit",
+        "years": ["1927", "1939", "1951", "1963", "1975", "1987", "1999", "2011", "2023"],
+        "element": ["Wood", "Fire", "Earth", "Metal", "Water"],
+        "traits": ["Gentle", "Quiet", "Elegant", "Alert", "Lucky"],
+        "compatibility": ["Sheep", "Pig", "Dog"],
+        "description": "The Rabbit is the fourth sign of the Chinese zodiac. People born in the Year of the Rabbit are gentle, quiet, and elegant. They are known for their kindness, refinement, and good luck."
+      },
+      {
+        "name": "Dragon",
+        "years": ["1928", "1940", "1952", "1964", "1976", "1988", "2000", "2012", "2024"],
+        "element": ["Wood", "Fire", "Earth", "Metal", "Water"],
+        "traits": ["Confident", "Intelligent", "Enthusiastic", "Ambitious", "Dominant"],
+        "compatibility": ["Monkey", "Rat", "Rooster"],
+        "description": "The Dragon is the fifth sign of the Chinese zodiac. People born in the Year of the Dragon are confident, intelligent, and ambitious. They are natural leaders and are known for their strength and good fortune."
+      },
+      {
+        "name": "Snake",
+        "years": ["1929", "1941", "1953", "1965", "1977", "1989", "2001", "2013", "2025"],
+        "element": ["Wood", "Fire", "Earth", "Metal", "Water"],
+        "traits": ["Wise", "Mysterious", "Prudent", "Elegant", "Calculating"],
+        "compatibility": ["Ox", "Rooster", "Monkey"],
+        "description": "The Snake is the sixth sign of the Chinese zodiac. People born in the Year of the Snake are wise, mysterious, and prudent. They are known for their intuition and elegance."
+      },
+      {
+        "name": "Horse",
+        "years": ["1930", "1942", "1954", "1966", "1978", "1990", "2002", "2014", "2026"],
+        "element": ["Wood", "Fire", "Earth", "Metal", "Water"],
+        "traits": ["Energetic", "Independent", "Impatient", "Warm-hearted", "Free-spirited"],
+        "compatibility": ["Tiger", "Dog", "Sheep"],
+        "description": "The Horse is the seventh sign of the Chinese zodiac. People born in the Year of the Horse are energetic, independent, and warm-hearted. They are known for their freedom-loving spirit and enthusiasm."
+      },
+      {
+        "name": "Sheep (Goat)",
+        "years": ["1931", "1943", "1955", "1967", "1979", "1991", "2003", "2015", "2027"],
+        "element": ["Wood", "Fire", "Earth", "Metal", "Water"],
+        "traits": ["Gentle", "Compassionate", "Creative", "Artistic", "Peaceful"],
+        "compatibility": ["Rabbit", "Horse", "Pig"],
+        "description": "The Sheep is the eighth sign of the Chinese zodiac. People born in the Year of the Sheep are gentle, compassionate, and creative. They are known for their artistic talents and peaceful nature."
+      },
+      {
+        "name": "Monkey",
+        "years": ["1932", "1944", "1956", "1968", "1980", "1992", "2004", "2016", "2028"],
+        "element": ["Wood", "Fire", "Earth", "Metal", "Water"],
+        "traits": ["Clever", "Intelligent", "Witty", "Versatile", "Mischievous"],
+        "compatibility": ["Rat", "Dragon", "Snake"],
+        "description": "The Monkey is the ninth sign of the Chinese zodiac. People born in the Year of the Monkey are clever, intelligent, and witty. They are known for their versatility and mischievous nature."
+      },
+      {
+        "name": "Rooster",
+        "years": ["1933", "1945", "1957", "1969", "1981", "1993", "2005", "2017", "2029"],
+        "element": ["Wood", "Fire", "Earth", "Metal", "Water"],
+        "traits": ["Observant", "Hardworking", "Confident", "Honest", "Flamboyant"],
+        "compatibility": ["Ox", "Snake", "Dragon"],
+        "description": "The Rooster is the tenth sign of the Chinese zodiac. People born in the Year of the Rooster are observant, hardworking, and confident. They are known for their honesty and flamboyant personality."
+      },
+      {
+        "name": "Dog",
+        "years": ["1934", "1946", "1958", "1970", "1982", "1994", "2006", "2018", "2030"],
+        "element": ["Wood", "Fire", "Earth", "Metal", "Water"],
+        "traits": ["Loyal", "Honest", "Responsible", "Courageous", "Anxious"],
+        "compatibility": ["Tiger", "Rabbit", "Horse"],
+        "description": "The Dog is the eleventh sign of the Chinese zodiac. People born in the Year of the Dog are loyal, honest, and responsible. They are known for their sense of justice and protective nature."
+      },
+      {
+        "name": "Pig",
+        "years": ["1935", "1947", "1959", "1971", "1983", "1995", "2007", "2019", "2031"],
+        "element": ["Wood", "Fire", "Earth", "Metal", "Water"],
+        "traits": ["Compassionate", "Generous", "Diligent", "Peace-loving", "Trusting"],
+        "compatibility": ["Rabbit", "Sheep", "Tiger"],
+        "description": "The Pig is the twelfth sign of the Chinese zodiac. People born in the Year of the Pig are compassionate, generous, and diligent. They are known for their kindness and peaceful nature."
+      }
+    ],
+    "elements": [
+      {
+        "name": "Wood",
+        "qualities": ["Growth", "Vitality", "Flexibility"],
+        "color": "Green",
+        "season": "Spring",
+        "direction": "East"
+      },
+      {
+        "name": "Fire",
+        "qualities": ["Energy", "Passion", "Transformation"],
+        "color": "Red",
+        "season": "Summer",
+        "direction": "South"
+      },
+      {
+        "name": "Earth",
+        "qualities": ["Stability", "Nourishment", "Reliability"],
+        "color": "Yellow",
+        "season": "Late Summer",
+        "direction": "Center"
+      },
+      {
+        "name": "Metal",
+        "qualities": ["Strength", "Determination", "Precision"],
+        "color": "White",
+        "season": "Autumn",
+        "direction": "West"
+      },
+      {
+        "name": "Water",
+        "qualities": ["Wisdom", "Adaptability", "Fluidity"],
+        "color": "Black",
+        "season": "Winter",
+        "direction": "North"
+      }
+    ]
+  }
+}
