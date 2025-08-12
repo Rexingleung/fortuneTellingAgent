@@ -6,12 +6,30 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "mastra dev",
     "build": "mastra build",
-    "start": "mastra start"
+    "start": "mastra start",
+    "cli": "node scripts/cli.mjs",
+    "validate-data": "node scripts/validate-data.mjs",
+    "setup": "npm install && cp .env.example .env",
+    "lint": "eslint src --ext .ts,.js",
+    "format": "prettier --write \"src/**/*.{ts,js,json}\""
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "fortune-telling",
+    "astrology",
+    "tarot",
+    "feng-shui",
+    "numerology",
+    "palmistry",
+    "i-ching",
+    "ba-zi",
+    "divination",
+    "chinese-astrology",
+    "ai-agent",
+    "mastra"
+  ],
+  "author": "Rexing Leung",
   "license": "ISC",
-  "description": "",
+  "description": "A comprehensive AI fortune telling agent supporting multiple divination systems including astrology, tarot, I Ching, feng shui, numerology, palmistry, and Ba Zi",
   "type": "module",
   "engines": {
     "node": ">=20.9.0"
@@ -22,11 +40,25 @@
     "@mastra/libsql": "^0.13.1",
     "@mastra/loggers": "^0.10.6",
     "@mastra/memory": "^0.12.1",
-    "zod": "^3.25.76"
+    "zod": "^3.25.76",
+    "chalk": "^5.3.0"
   },
   "devDependencies": {
     "@types/node": "^24.2.1",
     "mastra": "^0.10.20",
-    "typescript": "^5.9.2"
+    "typescript": "^5.9.2",
+    "eslint": "^9.0.0",
+    "prettier": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rexingleung/fortuneTellingAgent.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Rexingleung/fortuneTellingAgent/issues"
+  },
+  "homepage": "https://github.com/Rexingleung/fortuneTellingAgent#readme",
+  "bin": {
+    "fortune-agent": "./scripts/cli.mjs"
   }
 }
