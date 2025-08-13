@@ -5,11 +5,20 @@ import { LibSQLStore } from '@mastra/libsql';
 import { z } from 'zod';
 import { readFileSync } from 'fs';
 import { join } from 'path';
+import {createOpenAI} from "@ai-sdk/openai"
+import { createTool } from "@mastra/core/tools";
+
+const ai = createOpenAI({
+  baseURL: 'https://api.deepseek.com',
+  apiKey: 'sk-c7bae2605b6e48feb8ff9d626045e79a'
+})
 
 // Load data files
 const loadDataFile = (filename: string) => {
   try {
-    const filePath = join(process.cwd(), 'src', 'mastra', 'data', filename);
+    const filePath = join(process.cwd(), '../../', 'src', 'mastra', 'data', filename);
+    console.log(process.cwd(), 'filePath');
+    
     return JSON.parse(readFileSync(filePath, 'utf8'));
   } catch (error) {
     console.warn(`Could not load ${filename}, using fallback data`);
@@ -27,9 +36,12 @@ const tarotData = loadDataFile('tarot.json');
 // Utility functions
 const getZodiacSign = (birthDate: string): any => {
   const [year, month, day] = birthDate.split('-').map(Number);
+  console.log(year, month, day);
+  
   const monthDay = month * 100 + day;
-
+  
   const signs = astrologyData?.westernAstrology?.zodiacSigns || [];
+  console.log(signs, 'signs', astrologyData);
   
   if (monthDay >= 321 && monthDay <= 419) return signs.find(s => s.name === 'Aries');
   if (monthDay >= 420 && monthDay <= 520) return signs.find(s => s.name === 'Taurus');
@@ -43,6 +55,7 @@ const getZodiacSign = (birthDate: string): any => {
   if (monthDay >= 1222 || monthDay <= 119) return signs.find(s => s.name === 'Capricorn');
   if (monthDay >= 120 && monthDay <= 218) return signs.find(s => s.name === 'Aquarius');
   if (monthDay >= 219 && monthDay <= 320) return signs.find(s => s.name === 'Pisces');
+  console.log(signs[0]);
   
   return signs[0];
 };
@@ -101,18 +114,22 @@ const calculateNumerology = (name: string, birthDate: string) => {
 };
 
 // Enhanced fortune telling tools
-const astrologicalReading = {
-  name: 'astrologicalReading',
+const astrologicalReading = createTool({
+  id: 'astrologicalReading',
   description: 'Analyze a user\'s horoscope based on their birth date, time, and location',
-  parameters: z.object({
+  inputSchema: z.object({
     birthDate: z.string().describe('The birth date of the user (YYYY-MM-DD)'),
     birthTime: z.string().optional().describe('The birth time of the user if known (HH:MM)'),
     birthLocation: z.string().describe('The birth location of the user (City, Country)'),
     question: z.string().optional().describe('Specific question or area of life the user wants to know about')
   }),
-  handler: async ({ birthDate, birthTime, birthLocation, question }) => {
+  execute: async ({context: { birthDate, birthTime, birthLocation, question }}) => {
     try {
+      console.log(birthDate, 'birthDate');
+      
       const zodiacSign = getZodiacSign(birthDate);
+      console.log(zodiacSign, 'zodiacSign');
+      
       const year = parseInt(birthDate.split('-')[0]);
       const chineseZodiac = getChineseZodiac(year);
       
@@ -151,7 +168,7 @@ const astrologicalReading = {
       };
     }
   }
-};
+});
 
 const fengShuiAnalysis = {
   name: 'fengShuiAnalysis',
@@ -525,11 +542,11 @@ You are a specialized AI fortune teller with expertise in various divination sys
 
 Remember to provide meaningful insights that respect tradition while empowering users to make informed choices.
 `,
-  model: deepseek('deepseek-chat'),
+  model: ai('deepseek-chat'),
   memory: new Memory({
-    storage: new LibSQLStore({
-      url: 'file:../mastra.db',
-    }),
+    // storage: new LibSQLStore({
+    //   url: 'file:../mastra.db',
+    // }),
   }),
   tools: [
     astrologicalReading,
