@@ -1,18 +1,26 @@
 {
   "name": "fortunetellingagent",
-  "version": "1.0.0",
-  "main": "index.js",
+  "version": "1.0.1",
+  "main": "src/index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "mastra dev",
+    "dev:local": "wrangler dev --local",
+    "dev:remote": "wrangler dev",
     "build": "mastra build",
     "deploy": "wrangler deploy --config .mastra/output/wrangler.json",
+    "deploy:staging": "wrangler deploy --env staging",
+    "deploy:prod": "wrangler deploy --env production",
+    "deploy:direct": "wrangler deploy",
     "start": "mastra start",
     "cli": "node scripts/cli.mjs",
     "validate-data": "node scripts/validate-data.mjs",
+    "pre-deploy": "node scripts/pre-deploy-check.mjs",
     "setup": "npm install && cp .env.example .env",
     "lint": "eslint src --ext .ts,.js",
-    "format": "prettier --write \"src/**/*.{ts,js,json}\""
+    "format": "prettier --write \"src/**/*.{ts,js,json}\"",
+    "logs": "wrangler tail",
+    "logs:prod": "wrangler tail --env production"
   },
   "keywords": [
     "fortune-telling",
@@ -26,11 +34,13 @@
     "divination",
     "chinese-astrology",
     "ai-agent",
-    "mastra"
+    "mastra",
+    "sse-streaming",
+    "cloudflare-workers"
   ],
   "author": "Rexing Leung",
   "license": "ISC",
-  "description": "A comprehensive AI fortune telling agent supporting multiple divination systems including astrology, tarot, I Ching, feng shui, numerology, palmistry, and Ba Zi",
+  "description": "A comprehensive AI fortune telling agent supporting multiple divination systems including astrology, tarot, I Ching, feng shui, numerology, palmistry, and Ba Zi. Optimized for Cloudflare Workers with SSE streaming support.",
   "type": "module",
   "engines": {
     "node": ">=20.9.0"
